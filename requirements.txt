@@ -1,0 +1,17 @@
+langchain
+torch
+accelerate
+#bitsandbytes
+transformers
+sentence_transformers
+streamlit
+streamlit_chat
+faiss-cpu
+altair
+tiktoken
+huggingface-hub
+rank_bm25
+ctransformers
+deep_translator
+streamlit_option_menu
+streamlit_extras
